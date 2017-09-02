@@ -1,0 +1,10 @@
+name: AuthmePlayer
+authors: ['Bryan_lzh']
+main: Br.EpicAttributes.Main
+version: 2.4
+
+commands:
+  EpicAttributes:
+    aliases: ea
+    description: 主命令
+    usage: /<command>

@@ -1,0 +1,12 @@
+name: WeponHand
+authors: ['Bryan_lzh']
+main: Br.EpicWeapon.EpicWeapon
+version: 1.0
+depend: [AuthmePlayer]
+softdepend: [RPGItems]
+
+commands:
+  EpicWeapon:
+    aliases: [ew]
+    description: 主命令
+    usage: /<command> help

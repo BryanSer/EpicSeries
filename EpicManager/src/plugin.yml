@@ -1,0 +1,13 @@
+name: EsstialsMakeman
+authors: ['Bryan_lzh']
+main: Br.EpicManager.Main
+version: 0.1
+prefix: '[EpicManager]'
+softdepend: [ServerSignSkill,WeponHand]
+depend: [AuthmePlayer]
+
+commands:
+  EpicManager:
+    aliases: [em,epic]
+    description: 主命令管理器
+    usage: /<command>

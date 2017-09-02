@@ -1,0 +1,11 @@
+name: EpicGuys
+authors: ['Bryan_lzh']
+main: Br.EpicGuys.Main
+version: 1.0
+depend: [BrAPI]
+
+commands:
+  EpicGuys:
+    aliases: [eg]
+    description: 主命令
+    usage: /<command>

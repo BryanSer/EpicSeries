@@ -1,0 +1,15 @@
+Version: 1
+PlayerName:
+    Unlocked:
+        - Solt1
+        - Solt2
+    Gems:
+        GemDatas:
+            GemDataCode1:
+                Type: Name
+                Level: int
+            GemDataCode2:
+                type: Name
+                Level: int
+        Solts:
+            - 1|GemDataCode

@@ -1,0 +1,11 @@
+name: ServerSignSkill
+authors: ['Bryan_lzh']
+main: Br.EpicSet.Main
+version: 1.0
+depend: [BrAPI,AuthmePlayer]
+
+commands:
+  EpicSet:
+    aliases: es
+    description: 主命令
+    usage: /<command>
